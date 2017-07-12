@@ -21,17 +21,17 @@ html {
   border-style: double;
 }
 
-#about {
+.about {
   width: 300px;
-  height: 914px;
+  height: 920px;
   float: left;
   display: inline-block;
   background-color: white;
 }
 
-#location {
+.location {
   width: 300px;
-  height: 914px;
+  height: 920px;
   float: right;
   display: inline-block;
   background-color: white;
@@ -80,7 +80,7 @@ html {
 #home_pic {
   display: inline-block;
   margin-left: 40px;
-  height: 914px;
+  height: 920px;
 }
 
 #bee {
@@ -105,36 +105,76 @@ html {
 /* menu pages vvv */
 
 .menu_sections_one {
-  width: 1700px;
-  height: 1460px;
+  width: 1500px;
+  height: 1517px;
   background-color: white;
   border: 5px solid #4f4f4f;
   border-radius: 50px;
-  display: block;
-  margin: auto;
+  display: inline-block;
   border-style: double;
+  float: left;
+  margin-left: 5px;
 }
 
 .menu_sections_two {
-  width: 1700px;
-  height: 2500px;
+  width: 1500px;
+  height: 2428px;
   background-color: white;
   border: 5px solid #4f4f4f;
   border-radius: 50px;
-  display: block;
-  margin: auto;
+  display: inline-block;
   border-style: double;
+  float: left;
+  margin-left: 5px;
 }
 
 .menu_sections_three {
-  width: 1700px;
-  height: 1500px;
+  width: 1500px;
+  height: 1517px;
   background-color: white;
   border: 5px solid #4f4f4f;
   border-radius: 50px;
-  display: block;
-  margin: auto;
+  display: inline-block;
   border-style: double;
+  float: left;
+  margin-left: 5px;
+}
+
+#des_pics_one {
+  width: 300px;
+  height: 1517px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: inline-block;
+  border-style: double;
+  margin-left: 50px;
+}
+
+#des_pics_two {
+  width: 300px;
+  height: 2428px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: inline-block;
+  border-style: double;
+  margin-left: 50px;
+}
+
+#des_pics_three {
+  width: 300px;
+  height: 1517px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: inline-block;
+  border-style: double;
+  margin-left: 50px;
+}
+
+.men_pics {
+  border-radius: 50px;
 }
 
 .menu {
