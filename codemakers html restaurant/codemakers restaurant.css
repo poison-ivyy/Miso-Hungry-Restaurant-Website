@@ -1,0 +1,194 @@
+html {
+  background-image: url(http://www.publicdomainpictures.net/pictures/30000/velka/light-wood-texture.jpg);
+}
+
+.title {
+  font-size: 87px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+/* home pages vvv */
+
+
+#menu_bar {
+  width: 1880px;
+  height: 50px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  border: 5px solid #4f4f4f;
+  border-style: double;
+}
+
+#about {
+  width: 300px;
+  height: 914px;
+  float: left;
+  display: inline-block;
+  background-color: white;
+}
+
+#location {
+  width: 300px;
+  height: 914px;
+  float: right;
+  display: inline-block;
+  background-color: white;
+}
+
+.home_sections {
+  width: 610px;
+  height: 50px;
+  background-color: white;
+  margin-right: 7px;
+  display: inline-block;
+  float: left;
+  border: 5px solid #4f4f4f;
+  border-style: double;
+}
+
+.home_divs {
+  font-size: 25px;
+  text-align: center;
+  color: #4f4f4f;
+  border: 2 solid white;
+  border-style: solid;
+}
+
+.home_div {
+  font-size: 20px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+.bar_divs {
+  width: 1900px;
+  height: 50px;
+  background-color: white;
+  display: block;
+  margin: auto;
+  border: 1px solid white;
+}
+
+.home_menu {
+  font-size: 15px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+#home_pic {
+  display: inline-block;
+  margin-left: 40px;
+  height: 914px;
+}
+
+#bee {
+  font-size: 2.9px;
+}
+
+/* about us/ location and hours vvv */
+
+.home_bars {
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+#about_us {
+  font-size: 30px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+/* menu pages vvv */
+
+.menu_sections_one {
+  width: 1700px;
+  height: 1460px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: block;
+  margin: auto;
+  border-style: double;
+}
+
+.menu_sections_two {
+  width: 1700px;
+  height: 2500px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: block;
+  margin: auto;
+  border-style: double;
+}
+
+.menu_sections_three {
+  width: 1700px;
+  height: 1500px;
+  background-color: white;
+  border: 5px solid #4f4f4f;
+  border-radius: 50px;
+  display: block;
+  margin: auto;
+  border-style: double;
+}
+
+.menu {
+  font-size: 35px;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+#menu_pic {
+  display: inline-block;
+  width: 1400px;
+  height: 914px;
+  margin-left: 90px;
+}
+
+.prices {
+  font-size: 25px;
+  color: black;
+  text-align: center;
+  color: #4f4f4f;
+}
+
+.des_prices {
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  font-style: italic;
+  color: #4f4f4f;
+}
+
+.home {
+  font-size: 20px;
+  text-align: right;
+  color: #4f4f4f;
+}
+
+/* for all pages vvv */
+
+a {
+  text-decoration: none;
+  color: #4f4f4f;
+}
+
+a:hover {
+  font-weight: bold;
+}
+}
+
+#creator {
+  font-size: 20px;
+  color: #4f4f4f;
+  text-align: right;
+}
+
+span {
+  color: #63b6ff;
+}
